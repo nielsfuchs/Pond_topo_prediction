@@ -28,7 +28,7 @@ from pondtopo_functions import *
 
 ### Data configuration
 
-data_path='../../../data_publish/'
+data_path='[path to files]/' # data from Zenodo doi.org/10.5281/zenodo.14717210
 
 # Pre-melt sea ice surface topography
 demfile= data_path+'Photo_DEM/20200423_DEM_corrected_crop_pr_3413.tif'
